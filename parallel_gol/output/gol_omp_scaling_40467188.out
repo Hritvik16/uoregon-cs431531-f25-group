@@ -1,0 +1,18 @@
+Threads=1
+N=4096 steps=100 elapsed=13.245625 s
+
+Threads=2
+N=4096 steps=100 elapsed=7.011376 s
+
+Threads=4
+N=4096 steps=100 elapsed=3.415661 s
+
+Threads=8
+N=4096 steps=100 elapsed=1.717138 s
+
+Threads=16
+N=4096 steps=100 elapsed=0.882485 s
+
+Threads=32
+N=4096 steps=100 elapsed=0.488025 s
+
